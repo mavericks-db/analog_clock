@@ -1,3 +1,3 @@
 # analog_clock
 
-## Project: Analog Clock by WDS
+## Project: Analog Clock by WDS Tutorial
